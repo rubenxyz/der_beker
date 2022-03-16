@@ -25,8 +25,8 @@ Current status: Screenplaey is in development.
 #### Built With
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!).
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
-* :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain package for Atom with syntax highlighting and utilities.
+* :computer: [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) - Visual Studio Code is a source code editor.
+* :computer: [Better Fountain](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) - Fountain extention for Visual Studio with syntax highlighting and utilities.
   
 ![screencapture](images/screencapture.gif?raw=true)     
 
