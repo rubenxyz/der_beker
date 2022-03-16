@@ -3,9 +3,8 @@
 
 ### Tagline
 
-This is the repository for the screenplay of the short film Der Beker. The film is a short scene where a jewish baker in a small swedish town is exstorted for protection money by the local gangster :gun::boom::skull:.   
+This is the repository for the screenplay of the short film Der Beker. The film is a short scene where a jewish baker in a small swedish town is exstorted for protection money by a young gangster :gun::boom::skull:.   
   
-If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://www.rubenxyz.com/fountain-noobs).
 
 ### Read the script :page_facing_up:
 
@@ -21,8 +20,7 @@ Current status: Screenplaey is in development.
 
 #### Additional contributors
 * **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
-* ** Mistre Tesfaye - *Notes and ideas*
-* ** Manusträffen - * Stockholm based write's group
+
 
 #### Built With
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!).
