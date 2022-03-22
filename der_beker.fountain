@@ -1,11 +1,9 @@
 Title:
  _**DER BEKER**_
 Credit: Written by Ruben Sznajderman
-Draft date: 09/27/2021
-Version: 1.0.4
-Licence: CC-BY-4.0
-Contact: https://github.com/rubenxyz
-         	   www.rubenxyz.com
+Draft date: 03/27/2022
+Version: 1.0.5
+Contact: anders@menado.se
 
 /*
 Distributed under a Creative Commons Attribution 4.0 International license: https://github.com/rubenxyz/der_beker/blob/master/LICENSE
@@ -14,26 +12,34 @@ Distributed under a Creative Commons Attribution 4.0 International license: http
 INT. BAKERY - BASEMENT - NIGHT
 
 !ROLL OPENING CREDITS OVER MONTAGE
+ 
+We open on a series of CLOSE UPs of a big batch of DOUGH being kneaded on a table by a burly man (face is out of frame).
+ 
+He grabs a pastry scraper and cuts up smaller squares from the flattened doe.
 
-CLOSE on a slab of red meat is placed on a slaughter block. A cleaver cuts through the fibers of the flesh. 
+EXT. ALLEYWAY - NIGHT
 
-A brawny hands feed slices of meat with one hand, while the other works the crank of the MEAT GRINDER. 
+We see the back of well dressed young treading through the dark and icy streets of this small Swedish town. Some run down trolleys and stacks of wood boxes line the brick walls. The cobble stone is littered garbage, rotten food, and horse dung. 
 
-Strings of meat pulp stream out of the grinding plate.
+INT. BAKERY - BASEMENT - NIGHT
+ 
+He places some cooked meat on each square of dough, folds them one by one, brings them onto a tray, quick brushes with egg wash and into the hot oven.
+ 
+WE PULL OUT to reveal THE BAKER (62), a large man with a big belly, gray beard and a dirty apron.
+ 
+The bakery is unorderly, packed with equipment; sheet pans, spatulas, scrapers, sieves, baking pans and pie plates. The room is sparsely lit with a layer of flour on top of everything.
 
-WE PULL OUT to reveal THE BAKER (62), a burly man with a gray beard, dressed as a typical baker white apron. 
+INT. SMALL TOWN STREET - NIGHT
 
-The bakery is dirty and unorderly, packed with equipment; sheet pans, spatulas, scrapers, sieves, baking pans and pie plates. The room is sparsely lit with a layer of flour on top of everything.
+The well stressed man (face still out of frame) stops to look at a note in his pocket, he glances at the street signs and then continues walking. 
 
-He places a batch of dough on a table, sprinkled with flour. The baker grabs a pastry scraper and cuts up small squares. 
-
-He folds the squares with some grinded meat, brings them onto a tray, quick brush with egg wash and into the hot oven.
-
-The baker scrapes off his work bench, sweeps the floor, empties a trap into a garbage bag. A dead rat and some crumbs fall out. He loads the trap again with half a rugelach and a few drops from a BROWN MEDICINE BOTTLE. 
-   
+INT. BAKERY - BASEMENT - NIGHT
+ 
+The baker scrapes off his work bench, sweeps the floor, empties a trap into a garbage bag. A dead rat and some crumbs fall out. He loads the trap again with half a Rugelach cookie and a few drops from a brown medicine bottle.
+ 
 !END OF OPENING CREDITS
 
-. BAKERY - MOMENTS LATER
+.BAKERY - MOMENTS LATER
 
 The Baker is seated by a table and turns a page of a jiddisch newspaper while sipping on a cup of coffee.
 
@@ -41,10 +47,8 @@ The Baker is seated by a table and turns a page of a jiddisch newspaper while si
 
 The baker glances at his wristwatch and mutters to himself.
 
-!ALL THE ENGLISH DIALOGUE IS IN YIDDISCH.
-
 BAKER
-(shouting over his shoulder)
+(shouting over his shoulder in Yiddish)
 You don't get extra hours just because you come early, Schmolke!
 
 !WE HEAR FOOTSTEPS COMING TOWARDS US, THEN STOP.
@@ -53,21 +57,13 @@ The baker glances up at the door, does a double take. We only see the back of a 
 
 THE BAKER
 (brytning)
-Tyvärr, vi inte öppet. 
+Vi inte öppet. 
 
-The man doesn't respond. 
-
-THE BAKER
-Hur kom du in?
-/*
-YOUNG MAN
-I just walked in, the door was open.
-
-THE BAKER
-No, it wasn't. 
-*/
+The young man doesn't respond. 
 
 We reveal the face of the young man, a Jewish face. 
+
+!ALL THE ENGLISH DIALOGUE IS IN YIDDISH.
 
 YOUNG MAN
 Yosel, don't you remember me?
@@ -93,7 +89,13 @@ VELVEL
 Yes!
 
 YOSEL
-My lord. Lofke's boy?
+My lord. Lofke's boy? How did you get in?
+
+YOUNG MAN
+I just walked in, the door was open.
+
+THE BAKER
+No, it wasn't. 
 
 Velvel gives him a big smile, which is not reciprocated.
 
@@ -119,6 +121,18 @@ Really? You used to run that town.
 
 YOSEL
 I live a quiet life now. Less trouble.
+
+VELVEL
+I've been trying to find the rabbi, seen him? 
+
+YOSEL
+Not lately. 
+
+VELVEL
+No one knows, he can't just vanish. 
+
+YOSEL
+Sure, you can. His mother is in Riga. Perhaps she got sick or something.  
 
 Yosel looks Velvel up and down.
 
@@ -154,7 +168,7 @@ VELVEL
 Hey what doesn't kill you, right?
 
 YOSEL
-So what brings you to Borås (Borros)?
+So what brings you to Borås?
 
 VELVEL
 Well, I came here for business.
@@ -180,7 +194,7 @@ VELVEL
 Really?
 
 YOSEL
-Yea. The snake died shortly after.
+Yea. Poor snake. Died quickly after.
 
 Velvel grins.
 
@@ -261,27 +275,27 @@ No, no. I’m not done.
 Yosel sits back down, puzzled.
 
 VELVEL
-With the increased income you would be able to afford additional security.
+With the increased income you would be able to afford some additional services.
 
 Velvel’s words make Yosel’s eyes lit up. Velvel looks back at him, confidently.
+
+YOSEL
+Services? Like what?
+
+VELVEL 
+Improving your supply chain, perhaps ramp up security. 
 
 YOSEL
 Security? I don't know...
 
 VELVEL
---as business would be more profitable--
-
-YOSEL
---I’m just a simple baker, there’s really no money in this--
-
-VELVEL
---the bakery could be more susceptible to... trouble.
+--as business would be more profitable the bakery could be more susceptible to... trouble.
 
 YOSEL
 Trouble?
 
 VELVEL
-With my connections and extensive network, I would ensure the security of the premises, supply chain, staff and the owner.
+With my connections and extensive network, I would ensure the security of the premises, staff and the owner, of course.
 
 YOSEL
 I really appreciate that you-- 
@@ -299,17 +313,7 @@ YOSEL
 Everybody pays, sooner or later.
 
 VELVEL
-You might run into other problems.
-
-Yosel looks frightened.
-
-VELVEL
-Vandalism.
-
-Velvel let’s the word sink in. Yosel is now staring at Velvel.
-
-VELVEL
-Arson.
+Who knows, vandalism, arson. God forbid, but you never know.  
 
 Yosel is stunned, Velvel lets words sink in while he smirks. The two men look at each other for a moment until Yosel throws himself on his knees before Velvel.
 
@@ -326,7 +330,7 @@ VELVEL
 Get off me!
 
 YOSEL
-I’m saving up dowry for my daughter's wedding.
+I’m saving up dowry for my youngest wedding.
 
 VELVEL
 Get your hands off me!
@@ -356,16 +360,12 @@ VELVEL
 What are you talking about?
 
 YOSEL
-Your’re making a big mistake. I beg you, don’t do this. 
+You're making a big mistake. I beg you, don’t do this. 
 
 VELVEL
-Oh, shush. That's what they all say. 
+Oh, shush. That's what they all say. Spare me. 
 
-YOSEL
-You’re unleashing evil forces.  
-
-VELVEL
-Spare me. Velvel leans forward to Yosel's face.
+Velvel leans forward to Yosel's face.
 
 VELVEL
 Have you ever gotten away with something you shouldn’t have?
@@ -373,22 +373,26 @@ Have you ever gotten away with something you shouldn’t have?
 Yosel looks up at him, confused.
 
 VELVEL
-Look at this as a paypack.
+This is for Lodz. 
 
 YOSEL
 Please, violence is not the answer.
 
 VELVEL
-No, violence is more like a question. And the answer is yes.
+No, violence is more like a question. And the answer is usually yes.
 
 Yosel breaks eye contact with Velvel and thinks. 
+
+INT BAKERY - MOMENTS LATER
+
+MONTAGE: A series of extreme CLOSE UPS as Velvel is reading line by line of Yosel's book keeping. The baker sits next Velvel, nervously wiping the sweat from his forehead. 
 
 !AN ALARM CLOCK GOES OFF ACROSS THE ROOM.
 
 YOSEL
 Oy, my knishes.
 
-Yosel gets up, wipes his nose with a kitchen towel while rushing over to the oven.
+Yosel gets up and scurries over to the oven.
 
 VELVEL
 What kind of knishes do you got over there?
@@ -418,7 +422,7 @@ Yeah, bring one over.
 YOSEL
 Ok, just a minute.
 
-Yosel reaches for a box on his shelf. Velvel sees some more flour on his coat and brushes it off.
+Yosel reaches for a box on his shelf. Across the room, Velvel sees some more flour on his coat and brushes it off.
 
 YOSEL
 So how long are you in town for?
@@ -434,10 +438,8 @@ Wow, you get around.
 
 Yosel comes back to Velvel with a knish on a plate.
 
-
 YOSEL
 Be careful, it’s piping hot.
-
 
 Velvel takes a bite..
 
@@ -447,20 +449,8 @@ Not bad.
 YOSEL
 You think?
 
-VELVEL
-Now, getthe books would ya?
+Velvel shuts the last binder.
 
-YOSEL
-The books?
-
-VELVEL
-The accounting!
-
-Yosel scurries away.
-
-INT BAKERY - MOMENTS LATER
-
-Yosel watches on as Velvel goes through the bookkeeping while finishing the last piece of the knish. 
 VELVEL
 Well, we definitely need to get these numbers up.
 
@@ -487,7 +477,7 @@ Yosel looks at him, meekly.
 VELVEL
 We are raising prices, turning up productivity and cutting costs.
 
-Velvel close the binder, is about to get up but stops,  coughs and gives his chest a thump with his fist. 
+Velvel is about to get up but stops, coughs and gives his chest a thump with his fist. 
 
 YOSEL
 You alright?
@@ -538,7 +528,7 @@ You alright?
 Velvel looks disoriented.
 
 YOSEL
-You OK?
+Are you OK?
 
 Velvel glances down at the plate on the table, now just holding a couple of bread crumbs. He looks back up at Yosel before dropping to the floor.
 
@@ -554,11 +544,11 @@ As he pulls the body, Yosel passes his workbench.
 
 ! YOSEL POV:
 
-On the workbench, next to the tray with knishes, theBROWN MEDICINE BOTTLE. On the bottle’s label we see an X and a skull. 
+On the workbench, next to the tray with knishes, the BROWN MEDICINE BOTTLE. On the bottle’s label we see an X and a skull. 
 
 INT. WALK-IN FREEZER - CONTINUOUSLY 
 
-The fluorescent lights flicker on and reveal TWO FROZEN, JEWISH MEN hanging on hooks from the ceiling. Yosel comes in, dragging Velvel's body, and dumps it on the floor.
+The fluorescent lights flicker on and reveal TWO FROZEN, MEN hanging on hooks from the ceiling, one is the MISSING RABBI (43). Yosel comes in, dragging Velvel's body, and dumps it on the floor.
 
 YOSEL
 Don’t go anywhere.
